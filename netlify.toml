@@ -1,0 +1,3 @@
+# Daily Vocal Studio is a static site: no build tool or command required.
+[build]
+  publish = "."
